@@ -3,11 +3,13 @@ This repository will contain explanations of some of the most commonly recurring
 
 ## Methods
 
-### Region Detection (Region Proposal Network, RPN)
+### Region Detection (Region Proposal Networks, RPN)
 * [Spatial Pyramid Pooling, SPPnet](http://arxiv.org/abs/1406.4729)
 * [RCNN](http://arxiv.org/abs/1311.2524), [Fast-RCNN](http://arxiv.org/abs/1504.08083), [Faster-RCNN](http://arxiv.org/abs/1506.01497)
 * [OverFeat](TODO)
 * [MultiBox](TODO)
+* [EdgeBoxes, EB](TODO)
+* [Selective Search, SS](TODO)
 
 ## Related Methods
 
