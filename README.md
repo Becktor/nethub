@@ -2,9 +2,12 @@
 This repository will contain explanations of some of the most commonly recurring terms within the field of neural networks.
 
 ## Methods
-* [Selective Search, SS]()
 * [Spatial Pyramid Pooling, SPPnet](http://arxiv.org/abs/1406.4729)
-* [RCNN](), [Fast-RCNN](), [Faster-RCNN]()
+* [RCNN](http://arxiv.org/abs/1311.2524), [Fast-RCNN](http://arxiv.org/abs/1504.08083), [Faster-RCNN](http://arxiv.org/abs/1506.01497)
+
+## Related Methods
+### Region Detection
+* [Selective Search, SS](http://dl.acm.org/citation.cfm?id=2509382)
 
 ## Terminology
 
