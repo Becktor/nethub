@@ -79,3 +79,4 @@ NetHub is a  **list containing commonly reoccurring terms in the context of neur
 ### Other
 * [UFLDL Tutorial](http://deeplearning.stanford.edu/tutorial/)
 * [UFLDL Wiki](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
+* [Oxford Visual Geometry Group Practical](http://www.robots.ox.ac.uk/~vgg/practicals/cnn/#part1-4)
