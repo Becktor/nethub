@@ -80,3 +80,4 @@ NetHub is a  **list containing commonly reoccurring terms in the context of neur
 * [UFLDL Tutorial](http://deeplearning.stanford.edu/tutorial/)
 * [UFLDL Wiki](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
 * [Oxford Visual Geometry Group Practical](http://www.robots.ox.ac.uk/~vgg/practicals/cnn/#part1-4)
+* [CNN Tutorial with Lasagne, Python, 2015](http://blog.christianperone.com/2015/08/convolutional-neural-networks-and-feature-extraction-with-python/)
