@@ -13,6 +13,7 @@ NetHub is a  **list containing commonly reoccurring terms in the context of neur
 * [Abbreviations](#abbreviations)
 * [General Terminology](#general-terminology)
 * [Convolutional Neural Networks, CNN](#cnn)
+* [Distributed Training](#distributed-training)
 * [Other](#other)
 
 ---
@@ -75,6 +76,14 @@ NetHub is a  **list containing commonly reoccurring terms in the context of neur
 * [MultiBox](TODO)
 * [EdgeBoxes, EB](TODO)
 * [Selective Search, SS](http://dl.acm.org/citation.cfm?id=2509382)
+
+---
+
+### Distributed Training
+* [Distributed Learning of Multilingual DNN Feature Extractors using GPUs, 2014](https://www.cs.cmu.edu/~ymiao/pub/dist_draft_final.pdf)
+* [Large Scale Distributed Deep Networks, 2012](http://research.google.com/archive/large_deep_networks_nips2012.html)
+
+---
 
 ### Other
 * [UFLDL Tutorial](http://deeplearning.stanford.edu/tutorial/)
