@@ -63,8 +63,9 @@ NetHub is a  **list containing commonly reoccurring terms in the context of neur
 * [Whitening]()
 
 #### Learning Rate Techniques
-* [AdaGrad, 2011](http://stanford.edu/~jduchi/projects/DuchiHaSi10_colt.pdf)
+* [RMSProp, 2015](http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf)
 * [Adam, 2014](http://stanford.edu/~jduchi/projects/DuchiHaSi10_colt.pdf)
+* [AdaGrad, 2011](http://stanford.edu/~jduchi/projects/DuchiHaSi10_colt.pdf)
 
 #### Overfitting Avoidance Techniques
 * [DropOut]()
